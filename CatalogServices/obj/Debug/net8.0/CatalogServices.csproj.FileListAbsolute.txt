@@ -1,0 +1,80 @@
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\appsettings.Development.json
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\appsettings.json
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\CatalogServices.exe
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\CatalogServices.deps.json
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\CatalogServices.runtimeconfig.json
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\CatalogServices.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\CatalogServices.pdb
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\Dapper.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\System.Data.SqlClient.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\CatalogServices.csproj.AssemblyReference.cache
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\CatalogServices.GeneratedMSBuildEditorConfig.editorconfig
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\CatalogServices.AssemblyInfoInputs.cache
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\CatalogServices.AssemblyInfo.cs
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\CatalogServices.csproj.CoreCompileInputs.cache
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\CatalogServices.MvcApplicationPartsAssemblyInfo.cs
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\CatalogServices.MvcApplicationPartsAssemblyInfo.cache
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\staticwebassets.build.json
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\staticwebassets.development.json
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\staticwebassets\msbuild.CatalogServices.Microsoft.AspNetCore.StaticWebAssets.props
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\staticwebassets\msbuild.build.CatalogServices.props
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CatalogServices.props
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CatalogServices.props
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\staticwebassets.pack.json
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\scopedcss\bundle\CatalogServices.styles.css
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\CatalogS.67F77EFD.Up2Date
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\CatalogServices.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\refint\CatalogServices.dll
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\CatalogServices.pdb
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\CatalogServices.genruntimeconfig.cache
+e:\!Kuliah\Desain Microservices\Coding\New Microservices 2022\MinimalAPIMar2024-main\CatalogServices\obj\Debug\net8.0\ref\CatalogServices.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\appsettings.Development.json
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\appsettings.json
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\CatalogServices.exe
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\CatalogServices.deps.json
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\CatalogServices.runtimeconfig.json
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\CatalogServices.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\CatalogServices.pdb
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\Dapper.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\System.Data.SqlClient.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\CatalogServices.csproj.AssemblyReference.cache
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\CatalogServices.GeneratedMSBuildEditorConfig.editorconfig
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\CatalogServices.AssemblyInfoInputs.cache
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\CatalogServices.AssemblyInfo.cs
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\CatalogServices.csproj.CoreCompileInputs.cache
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\CatalogServices.MvcApplicationPartsAssemblyInfo.cs
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\CatalogServices.MvcApplicationPartsAssemblyInfo.cache
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\staticwebassets.build.json
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\staticwebassets.development.json
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\staticwebassets\msbuild.CatalogServices.Microsoft.AspNetCore.StaticWebAssets.props
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\staticwebassets\msbuild.build.CatalogServices.props
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CatalogServices.props
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CatalogServices.props
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\staticwebassets.pack.json
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\scopedcss\bundle\CatalogServices.styles.css
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\CatalogS.67F77EFD.Up2Date
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\CatalogServices.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\refint\CatalogServices.dll
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\CatalogServices.pdb
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\CatalogServices.genruntimeconfig.cache
+d:\!Kuliah\Desain Microservices\new\CatalogServices\obj\Debug\net8.0\ref\CatalogServices.dll
